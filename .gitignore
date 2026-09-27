@@ -1,0 +1,30 @@
+# Keil Build
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.d
+*.dep
+*.htm
+*.lnp
+*.build_log.htm
+
+# Keil User
+*.uvguix.*
+*.uvoptx
+*.scvd
+*.dbgconf
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
